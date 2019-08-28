@@ -1,0 +1,10 @@
+2
+0
+Johnny
+IDK how to help you, bro... :( It's way more difficult than 4!
+0
+1
+The professor
+You have to put an int after +=. Like so: i += 1; or j -= 2; Otherwise it won't work!
+4
+

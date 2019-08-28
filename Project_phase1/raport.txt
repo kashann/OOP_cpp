@@ -1,0 +1,28 @@
+
+Domain: C++
+No questions: 1
+
+Question 1: 
+Subject: Problem with += operator
+ID: 11
+Created by: Aladin
+Question: The += operator doesnt increment like it should. Here is the code: 'i +=;'
+Difficulty: 4
+Nr of replies: 2
+------------------------------
+Replies: 
+
+Reply ID: 41
+Wrote by: Johnny
+Reply: IDK how to help you, bro... :( It's way more difficult than 4!
+Nr of thumbsup: 0
+
+
+Reply ID: 42
+Marked as the best answer!
+Wrote by: The professor
+Reply: You have to put an int after +=. Like so: i += 1; or j -= 2; Otherwise it won't work!
+Nr of thumbsup: 4
+
+------------------------------
+Status: The correct answer is reply nr. 2!

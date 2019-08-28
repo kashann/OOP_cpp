@@ -1,0 +1,5 @@
+1
+Problem with += operator
+Aladin
+The += operator doesnt increment like it should. Here is the code: 'i +=;'
+4
